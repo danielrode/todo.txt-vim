@@ -20,4 +20,4 @@ highlight  default  link  todotxtDate    Comment
 highlight  default  link  todotxtProject Special
 highlight  default  link  todotxtContext Special
 
-let b:current_syntax = "todotxt"
+let b:current_syntax = "todo"
